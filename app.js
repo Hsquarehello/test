@@ -12,5 +12,7 @@ const muti = (x,y) => {
    return x*y
 }
 
+console.log('first code');
+
 console.log(muti(244444,1994848));
 help('Node Mon');
